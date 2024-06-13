@@ -32,5 +32,5 @@ To install and use the Phone Dial entity in your Garry's Mod server:
 ## Usage
 
 After installation, the Phone Dial entity can be spawned via the entity spawn menu 
-
+Keep in mind this was made for fun and without in depth knowledge of Lua, so it might be buggy if combining with other addons or on large servers
 
